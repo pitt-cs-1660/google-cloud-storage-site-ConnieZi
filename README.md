@@ -1,5 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/p3a22N-M)
 # CS1660 Static Website Project
+## COMPLETED:
+**My load balancer IP: 34.149.1.25**
+
+<br>
+
+
 
 ## Project Requirements
 - Google Cloud Platform (GCP) account
